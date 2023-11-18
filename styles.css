@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+
+main {
+    position: absolute;
+}
+
+nav {
+    position: fixed;
+}
+
+nav li {
+    display: inline-block;
+}
