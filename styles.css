@@ -10,6 +10,11 @@ nav {
     position: fixed;
 }
 
+button {
+    background-color: aquamarine;
+    color: red;
+}
+
 nav li {
     display: inline-block;
 }
